@@ -10,7 +10,7 @@ O Sistema de Pesquisa de Medicamentos Naturais é uma aplicação desktop que pe
 
 1. Clone o repositório para o seu ambiente local usando o comando:
 
-git clone https://github.com/Hiro4156/ODS-3-UC.git
+git clone https://github.com/GuilhermeMaires/ODS-3-UC
 
 
 2. Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
